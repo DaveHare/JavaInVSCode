@@ -19,7 +19,7 @@ public class Main {
         // ReadStrings.getStrings();
         // ReadStringsWithArrayList.readStringsWithArrayListMethod();
         DivideByTwo.divideByTwoMethod();
-        System.out.println("The smallest of change");
+        // System.out.println("The smallest of change");
 
     }
 }

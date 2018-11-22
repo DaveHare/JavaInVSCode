@@ -1,0 +1,58 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "stopOnEntry": false,
+            "mainClass": "Package.Main",
+            "args": "",
+            "projectName": "ArtifactID"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimpleMain",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "stopOnEntry": false,
+            "mainClass": "Files.SimpleMain",
+            "args": "",
+            "projectName": "ArtifactID"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Package.App",
+            "args": "",
+            "projectName": "ArtifactID"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainClass",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "MainClass",
+            "args": "",
+            "projectName": "Eksamen"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestFil",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "TestFil",
+            "args": ""
+        }
+    ]
+}
